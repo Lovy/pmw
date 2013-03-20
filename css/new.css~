@@ -92,7 +92,7 @@ p{
 	padding:0px;
 	margin-top:0px;
 	position:relative;
-	float:left;
+	/*float:left;*/
 	margin:auto;
 	/*text-align:right;*/
 	}	
