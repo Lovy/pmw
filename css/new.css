@@ -73,7 +73,9 @@ p{
 	text-align: center;
 	display:inline-block;
 	margin:auto;
-	float:left;
+	/*float:left;*/
+	position:relative;
+	top:-14px;
 	text-decoration:none;
 	
 	}
@@ -90,9 +92,9 @@ p{
 	padding:0px;
 	margin-top:0px;
 	position:relative;
-	float:left;'
+	/*float:left;*/
 	margin:auto;
-	text-align:right;
+	/*text-align:right;*/
 	}	
 .mainContainer{
 	position:relative;
