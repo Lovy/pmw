@@ -75,7 +75,7 @@ p{
 	margin:auto;
 	/*float:left;*/
 	position:relative;
-	top:-17px;
+	top:-14px;
 	text-decoration:none;
 	
 	}

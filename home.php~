@@ -20,6 +20,10 @@
 		Get Parked Now
 	</div>
 	<div class="searchWrap">
+	<input type="text" id="searchtext"/>
+	<input type="text" id="startdate"/>
+	<input type="text" id="enddate"/>
+	<input type="button" name="search" value="search" />
 	</div>
 	<div id="belowSearchMessage"> Get Parking in Blah, Blah, Blah,Blah, Blah, Blah</div>
 		
