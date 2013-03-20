@@ -25,7 +25,7 @@
 	<input type="text" id="enddate"/>
 	<input type="button" class="button" name="search" value="search" />
 	</div>
-	<div id="belowSearchMessage"> Get Parking in Blah, Blah, Blah,Blah, Blah, Blah</div>
+	<div id="belowSearchMessage"> Get Parking in major destinations across india.</div>
 		
 		
 		<div class="row">
