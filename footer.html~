@@ -1,0 +1,39 @@
+<div class="footer"> 
+	<div class="container1">
+		<div class="footer_div"> 
+				<h1>Site Map</h1>
+                        <li><a href="#">About</a></li>
+                        <li><a href="#">Terms of Use</a></li>
+                        <li><a href="#">Privacy</a></li>
+                      
+                    </div>
+		<div class="footer_div"> 
+				<h1>Help</h1>
+                        <li><a href="#">Contact Us</a></li>
+                        <li><a href="#">Team</a></li>
+                        <li><a href="#">Press</a></li>
+                        <li><a href="#">Jobs</a></li>
+        </div>
+
+		<div class="footer_div">  
+					<h1>Connect</h1>
+					<ul id="connect">
+
+
+
+
+					<li><a href="www.facebook.com" target="_blank"><img src="./images/facebook.png" align="left" style="width:30px;height:30px" border="0">Facebook</a></li>
+					<li><a href="www.twitter.com" target="_blank"><img src="./images/twitter.png" border="0"  align="left"></a>Twitter</li>
+					<li><a href="www.googleplus.com" target="_blank"><img src="./images/gplus.png" border="0" align="left"></a>Google</li>
+					
+					</ul>
+		</div>
+		<div class="footer_div"> 
+					<h1>Download Our App</h1>
+					
+					<a class="pngpng appstore href="#" target="_blank">
+					</a>
+		</div>
+		
+	</div>
+</div>

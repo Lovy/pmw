@@ -436,7 +436,7 @@ text-align:center;
 }
 
 .footer_div>li:hover{
-	background:#aaa;
+	background:#ccc;
 }
 
 .footer_div>a{
