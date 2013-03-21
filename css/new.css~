@@ -427,10 +427,12 @@ text-align:center;
 	display:block;
 	background:none;
 	padding:0px;
+	line-height:32px;
 }
 
 .footer_div>li>a{
 	color:#fff;
+	font-size:15px;
 }
 
 .footer_div>li:hover{
