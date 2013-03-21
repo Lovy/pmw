@@ -1,10 +1,18 @@
 <html>
 <head>
 <title>ParkMyWheelz</title>
-
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<link rel="stylesheet" href="http://code.jquery.com/ui/1.10.1/themes/base/jquery-ui.css" />
+<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+<script src="http://code.jquery.com/ui/1.10.1/jquery-ui.js"></script>
 <link rel="stylesheet" type="text/css" href="./css/new.css" />
 <link rel="shortcut icon" href="" >
-
+ <script>
+$(function() {
+	$( "#startdate" ).datepicker({ dateFormat: "yy-mm-dd" });
+	$( "#enddate" ).datepicker({ dateFormat: "yy-mm-dd" });
+});
+</script>
 </head>
 <body id="body" >
 <?php
