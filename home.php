@@ -20,9 +20,9 @@
 		Get Parked Now
 	</div>
 	<div class="searchWrap">
-	<input type="text" id="searchtext"/>
-	<input type="text" id="startdate"/>
-	<input type="text" id="enddate"/>
+	<input type="text" id="searchtext" placeholder=" Where do you need parking?"/>
+	<input type="text" id="startdate" placeholder="Startdate"/>
+	<input type="text" id="enddate" placeholder="Enddate"/>
 	<input type="button" class="button" name="search" value="search" />
 	</div>
 	<div id="belowSearchMessage"> Get Parking in major destinations across india.</div>
