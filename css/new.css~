@@ -468,6 +468,8 @@ text-align:center;
 #connect>li{
 	background:none;
 	display:block;
+	color:#fff;
+	font-size:15px;
 }
 
 #connect>li>a{
