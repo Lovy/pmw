@@ -250,7 +250,7 @@ h1{color:#FFF}
 	height:200px;
 	background : rgb(58,58,54);
 	position:relative;
-	border:1px dashed black;
+	
 	text-align:center;
 }
 
@@ -389,7 +389,7 @@ text-align:center;
 	width:100%;
 	height:auto;
 	background:rgb(45,147,48);
-	border:1px dashed black;
+	
 }
 .footer_div{
 	height:200px;
